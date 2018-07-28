@@ -13,5 +13,5 @@
     * [如何设计组件(二)](https://github.com/fengyua5/blog/blob/master/%E7%BB%84%E4%BB%B6%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97/%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%BB%84%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 * javascript小知识
     * [异步加载文件](https://github.com/fengyua5/blog/blob/master/javascript%E5%B0%8F%E7%9F%A5%E8%AF%86/%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E6%96%87%E4%BB%B6.md)
-* SPA
+* 工程化
     * [路由去中心化](https://github.com/fengyua5/blog/issues/8)
